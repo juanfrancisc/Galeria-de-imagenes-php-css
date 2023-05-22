@@ -125,7 +125,7 @@ main {
     -moz-border-radius: 3px 3px 3px 3px;
     -webkit-border-radius: 3px 3px 3px 3px;
     
-    background-color: #dfcdc3;
+    background-color: #c3b10c;
     
     margin-top: 10px;
 }
@@ -157,7 +157,7 @@ main {
 
 .titulo {
     font-size: 300%;
-    color:#dfcdc3;
+    color:#c7c40c;
 }
 
 .logo-empresa img {
@@ -165,21 +165,21 @@ main {
 }
 
 hr {
-    border-top: 1px solid #8c8b8b;
-	border-bottom: 1px solid #dfcdc3;
+    border-top: 2px solid #8c8b8b;
+	border-bottom: 2px solid #dfcdc3;
     
 }
 .pie-form {
     font-size: 90%;
     text-align: center;    
     margin-top: 15px;
-    color: #dfcdc3;
+    color: #c7c40c;
 }
 
 .pie-form a {
     display: block;
     text-decoration: none;
-    color: #dfcdc3;
+    color: #c7c40c;
     margin-bottom: 3px;
 }
 
