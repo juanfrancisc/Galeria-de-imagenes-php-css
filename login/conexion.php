@@ -1,9 +1,9 @@
 <?php
 /*On Line*/
-/*$DB_HOST="db5008799431.hosting-data.io";
-$DB_NAME= "dbs7417789";
-$DB_USER= "dbu2183178";
-$DB_PASS= "Sabio11Junio2022";*/
+/*$DB_HOST="direccion";
+$DB_NAME= "name_database";
+$DB_USER= "usuario";
+$DB_PASS= "password";*/
 
 /*En local*/
 $DB_HOST="localhost";
