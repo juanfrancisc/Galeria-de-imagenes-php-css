@@ -12,8 +12,9 @@ El login valida contra una variable de sesion
 
 estas variables se pueden modificar, estan en login.php
 
-Una vez hecho login ok, se accede a galeria.php que muestra la galeria de motos, estan deben de estar en la carpeta /img/banner/ y creadas en la base de datos
-para ello podemos coloar las imagenes en su ubicacion y ejecuatr el listar.php, esto nos dara como resultado en pantalla una sentencia SQL que podemos ejecutar en la adminstracion de la base de datos.
+Una vez hecho login ok, se accede a galeria.php que muestra la galeria de fotos, estan deben de estar en la carpeta /img/banner/ y creadas en la base de datos.
+
+Para ello podemos colocar las imagenes en su ubicacion y ejecuatr el listar.php, esto nos dara como resultado en pantalla una sentencia SQL que podemos ejecutar en la adminstracion de la base de datos.
 
 
 
