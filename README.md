@@ -1,6 +1,7 @@
 Colocar los ficheros en el repositorio que vamos a utilizar
 
 Crear un usuario y pass para una base de datos
+
 Crear una base de datos
 
 Colocar los datos en el fichero conexion.php
